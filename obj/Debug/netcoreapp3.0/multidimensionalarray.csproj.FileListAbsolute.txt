@@ -1,0 +1,11 @@
+C:\csharp\ar\multidimensionalarray\bin\Debug\netcoreapp3.0\multidimensionalarray.exe
+C:\csharp\ar\multidimensionalarray\bin\Debug\netcoreapp3.0\multidimensionalarray.deps.json
+C:\csharp\ar\multidimensionalarray\bin\Debug\netcoreapp3.0\multidimensionalarray.runtimeconfig.json
+C:\csharp\ar\multidimensionalarray\bin\Debug\netcoreapp3.0\multidimensionalarray.runtimeconfig.dev.json
+C:\csharp\ar\multidimensionalarray\bin\Debug\netcoreapp3.0\multidimensionalarray.dll
+C:\csharp\ar\multidimensionalarray\bin\Debug\netcoreapp3.0\multidimensionalarray.pdb
+C:\csharp\ar\multidimensionalarray\obj\Debug\netcoreapp3.0\multidimensionalarray.csprojAssemblyReference.cache
+C:\csharp\ar\multidimensionalarray\obj\Debug\netcoreapp3.0\multidimensionalarray.AssemblyInfoInputs.cache
+C:\csharp\ar\multidimensionalarray\obj\Debug\netcoreapp3.0\multidimensionalarray.AssemblyInfo.cs
+C:\csharp\ar\multidimensionalarray\obj\Debug\netcoreapp3.0\multidimensionalarray.dll
+C:\csharp\ar\multidimensionalarray\obj\Debug\netcoreapp3.0\multidimensionalarray.pdb
